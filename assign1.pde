@@ -21,7 +21,7 @@ void setup () {
   treasureY = floor(random(0,481));
   enemyX = 0;
   enemyY = 50;
-  shipImg = loadImage("img/ship.png");
+  shipImg = loadImage("img/fighter.png");
   bgImg1 = loadImage("img/bg1.png");
   bgImg2 = loadImage("img/bg2.png");
   hpImg = loadImage("img/hp.png");
